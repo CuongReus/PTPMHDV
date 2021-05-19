@@ -1,0 +1,1 @@
+export const API_ROOT_DOWNLOAD = 'http://localhost:8080';
